@@ -30,6 +30,10 @@
             android:name="com.orderthis.heywaiter.MainCourse"
             android:label="@string/title_activity_main_course" >
         </activity>
+        <activity
+            android:name="com.orderthis.heywaiter.Desserts"
+            android:label="@string/title_activity_desserts" >
+        </activity>
     </application>
 
 </manifest>

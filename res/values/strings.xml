@@ -9,5 +9,21 @@
     <string name="title_activity_main_course">MainCourse</string>
     <string name="maincourse">Main Course</string>
     <string name="welcome">WelcomePage</string>
-
+    <string name="title_activity_desserts">Desserts</string>
+    <string name="raspTrif">Raspberry Trifle</string>
+	<string name="caramelCustard">Caramel Custard</string>
+	<string name="applePie">Apple Pie with IceCream</string>
+	<string name="chocMousse">Chocolate Mousse Cake</string>
+	<string name="eggSaladSandwich">Egg salad Sandwich</string>
+	<string name="spinachMushroom">Mushroom Lasagna</string>
+	<string name="countryQuiche">Veg Country Quiche</string>
+	<string name="lambBurger">Spiced Lamb Burger</string>
+	<string name="hamburgerSteak">Hamburger Steak</string>
+	<string name="fettuccineAlfredo">Fettuccine Alfredo</string>
+	<string name="basilTomato">Basil Tomato Pasta</string>
+	<string name="cheeseRolls">Cheese Rolls</string>
+	<string name="onionRings">Onion Rings</string>
+	<string name="BBQ">Barbeque Chicken Wings</string>
+	<string name="fishSticks">Fish Sticks</string>
+	<string name="confirm">Confirm Order</string>
 </resources>
