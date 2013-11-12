@@ -86,10 +86,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WaiterDB.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/WaiterDB.java">
+      <file leaf-file-name="MySQLiteHelper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/MySQLiteHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0" vertical-offset="248" max-vertical-offset="833">
+            <state line="10" column="27" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="833">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,20 +97,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Confirm.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/Confirm.java">
+      <file leaf-file-name="Order.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/Order.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="76" selection-start="857" selection-end="857" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="663">
-              <folding />
+            <state line="7" column="24" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+              <folding>
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThankYou.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/ThankYou.java">
+      <file leaf-file-name="MenuDAO.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/MenuDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="323">
-              <folding />
+            <state line="68" column="46" selection-start="1973" selection-end="1973" vertical-scroll-proportion="1.4529915" vertical-offset="306" max-vertical-offset="1326">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1319#1326#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,10 +155,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Desserts.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Desserts.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/Desserts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="38" selection-start="737" selection-end="737" vertical-scroll-proportion="0.47692308" vertical-offset="10" max-vertical-offset="595">
+            <state line="19" column="40" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="595">
               <folding />
             </state>
           </provider>
@@ -202,10 +218,14 @@
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/src/com/orderthis/heywaiter/Desserts.java" />
         <option value="$PROJECT_DIR$/res/layout/activity_thank_you.xml" />
-        <option value="$PROJECT_DIR$/src/com/orderthis/heywaiter/WaiterDB.java" />
         <option value="$PROJECT_DIR$/src/com/orderthis/heywaiter/Confirm.java" />
         <option value="$PROJECT_DIR$/res/layout/activity_confirm.xml" />
         <option value="$PROJECT_DIR$/res/layout/activity_starters.xml" />
+        <option value="$PROJECT_DIR$/src/com/orderthis/heywaiter/Waiter.java" />
+        <option value="$PROJECT_DIR$/src/com/orderthis/heywaiter/Order.java" />
+        <option value="$PROJECT_DIR$/src/com/orderthis/heywaiter/WaiterDB.java" />
+        <option value="$PROJECT_DIR$/src/com/orderthis/heywaiter/MySQLiteHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/orderthis/heywaiter/MenuDAO.java" />
       </list>
     </option>
   </component>
@@ -997,15 +1017,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/WaiterDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0" vertical-offset="248" max-vertical-offset="833">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/activity_starters.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="4" selection-start="327" selection-end="368" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="1190">
@@ -1018,8 +1029,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/Desserts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="38" selection-start="737" selection-end="737" vertical-scroll-proportion="0.47692308" vertical-offset="10" max-vertical-offset="595">
+        <state line="19" column="40" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="595">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/MySQLiteHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="27" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="833">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/MenuDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="46" selection-start="1973" selection-end="1973" vertical-scroll-proportion="1.4529915" vertical-offset="306" max-vertical-offset="1326">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1319#1326#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
