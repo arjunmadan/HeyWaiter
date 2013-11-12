@@ -4,4 +4,14 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/tablelayout"></TableLayout>
+    android:id="@+id/tablelayout">
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="Confirm"
+        android:id="@+id/button1"
+        />
+
+</TableLayout>
+
