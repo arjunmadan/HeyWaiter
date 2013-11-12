@@ -74,10 +74,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="activity_main_course.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/activity_main_course.xml">
+      <file leaf-file-name="activity_welcome_page.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/activity_welcome_page.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="374">
+            <state line="9" column="34" selection-start="517" selection-end="517" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -86,10 +86,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_welcome_page.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/res/layout/activity_welcome_page.xml">
+      <file leaf-file-name="activity_desserts.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/activity_desserts.xml">
+          <provider editor-type-id="text-editor">
+            <state line="7" column="56" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1241">
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Confirm.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/Confirm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="140" selection-start="878" selection-end="878" vertical-scroll-proportion="0.5904936" vertical-offset="0" max-vertical-offset="547">
+            <state line="15" column="5" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThankYou.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/ThankYou.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="13" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="323">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_thank_you.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/activity_thank_you.xml">
+          <provider editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_confirm.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/activity_confirm.xml">
+          <provider editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="204">
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Desserts.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/Desserts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="5" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="714">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainCourse.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/MainCourse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="8" selection-start="404" selection-end="749" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="714">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="41" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_starters.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/layout/activity_starters.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="19" selection-start="4417" selection-end="4417" vertical-scroll-proportion="0.47166362" vertical-offset="643" max-vertical-offset="1190">
               <folding />
             </state>
           </provider>
@@ -117,6 +198,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/res/layout/activity_welcome_page.xml" />
+        <option value="$PROJECT_DIR$/res/layout/activity_starters.xml" />
+        <option value="$PROJECT_DIR$/res/layout/activity_main_course.xml" />
+        <option value="$PROJECT_DIR$/res/layout/activity_desserts.xml" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/com/orderthis/heywaiter/Desserts.java" />
+        <option value="$PROJECT_DIR$/res/layout/activity_confirm.xml" />
+        <option value="$PROJECT_DIR$/src/com/orderthis/heywaiter/Confirm.java" />
+        <option value="$PROJECT_DIR$/res/layout/activity_thank_you.xml" />
       </list>
     </option>
   </component>
@@ -153,7 +242,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -169,6 +257,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="HeyWaiter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeyWaiter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeyWaiter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="heywaiter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -206,6 +312,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,6 +331,8 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Android Application.HeyWaiter">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -254,19 +363,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -292,6 +388,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -333,6 +442,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
@@ -351,6 +461,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="Nexus4-4.3" />
@@ -405,34 +516,40 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329429" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22913256" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18374817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -446,9 +563,84 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_main_course.xml">
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_welcome_page.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="374">
+        <state line="9" column="34" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_desserts.xml">
+      <provider editor-type-id="text-editor">
+        <state line="7" column="56" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1241">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/Confirm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/ThankYou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_thank_you.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_confirm.xml">
+      <provider editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/Desserts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="5" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/MainCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="8" selection-start="404" selection-end="749" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="41" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_starters.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="19" selection-start="4417" selection-end="4417" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1190">
           <folding />
         </state>
       </provider>
@@ -458,7 +650,387 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/activity_welcome_page.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="140" selection-start="878" selection-end="878" vertical-scroll-proportion="0.5904936" vertical-offset="0" max-vertical-offset="547">
+        <state line="9" column="34" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_desserts.xml">
+      <provider editor-type-id="text-editor">
+        <state line="7" column="56" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1241">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/Confirm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="31" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/ThankYou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_thank_you.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_confirm.xml">
+      <provider editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/Desserts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="5" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/MainCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="8" selection-start="404" selection-end="749" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="41" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_starters.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="19" selection-start="4417" selection-end="4417" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_main_course.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1734">
+          <folding>
+            <element signature="e#229#262#0" expanded="false" />
+            <element signature="e#287#322#0" expanded="false" />
+            <element signature="e#350#383#0" expanded="false" />
+            <element signature="e#838#859#0" expanded="false" />
+            <element signature="e#1005#1031#0" expanded="false" />
+            <element signature="e#1233#1254#0" expanded="false" />
+            <element signature="e#1872#1893#0" expanded="false" />
+            <element signature="e#2039#2064#0" expanded="false" />
+            <element signature="e#2269#2290#0" expanded="false" />
+            <element signature="e#2893#2914#0" expanded="false" />
+            <element signature="e#3060#3083#0" expanded="false" />
+            <element signature="e#3285#3306#0" expanded="false" />
+            <element signature="e#3916#3937#0" expanded="false" />
+            <element signature="e#4083#4103#0" expanded="false" />
+            <element signature="e#4308#4329#0" expanded="false" />
+            <element signature="e#4946#4967#0" expanded="false" />
+            <element signature="e#5113#5137#0" expanded="false" />
+            <element signature="e#5339#5360#0" expanded="false" />
+            <element signature="e#5970#5991#0" expanded="false" />
+            <element signature="e#6137#6164#0" expanded="false" />
+            <element signature="e#6366#6387#0" expanded="false" />
+            <element signature="e#6996#7017#0" expanded="false" />
+            <element signature="e#7188#7209#0" expanded="false" />
+            <element signature="e#7411#7432#0" expanded="false" />
+            <element signature="e#8039#8072#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_welcome_page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="140" selection-start="878" selection-end="878" vertical-scroll-proportion="0.0" vertical-offset="181" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_desserts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_starters.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_main_course.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1734">
+          <folding>
+            <element signature="e#229#262#0" expanded="false" />
+            <element signature="e#287#322#0" expanded="false" />
+            <element signature="e#350#383#0" expanded="false" />
+            <element signature="e#838#859#0" expanded="false" />
+            <element signature="e#1005#1031#0" expanded="false" />
+            <element signature="e#1233#1254#0" expanded="false" />
+            <element signature="e#1872#1893#0" expanded="false" />
+            <element signature="e#2039#2064#0" expanded="false" />
+            <element signature="e#2269#2290#0" expanded="false" />
+            <element signature="e#2893#2914#0" expanded="false" />
+            <element signature="e#3060#3083#0" expanded="false" />
+            <element signature="e#3285#3306#0" expanded="false" />
+            <element signature="e#3916#3937#0" expanded="false" />
+            <element signature="e#4083#4103#0" expanded="false" />
+            <element signature="e#4308#4329#0" expanded="false" />
+            <element signature="e#4946#4967#0" expanded="false" />
+            <element signature="e#5113#5137#0" expanded="false" />
+            <element signature="e#5339#5360#0" expanded="false" />
+            <element signature="e#5970#5991#0" expanded="false" />
+            <element signature="e#6137#6164#0" expanded="false" />
+            <element signature="e#6366#6387#0" expanded="false" />
+            <element signature="e#6996#7017#0" expanded="false" />
+            <element signature="e#7188#7209#0" expanded="false" />
+            <element signature="e#7411#7432#0" expanded="false" />
+            <element signature="e#8039#8072#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_welcome_page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="140" selection-start="878" selection-end="878" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="52" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_main_course.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1734">
+          <folding>
+            <element signature="e#229#262#0" expanded="false" />
+            <element signature="e#287#322#0" expanded="false" />
+            <element signature="e#350#383#0" expanded="false" />
+            <element signature="e#838#859#0" expanded="false" />
+            <element signature="e#1005#1031#0" expanded="false" />
+            <element signature="e#1233#1254#0" expanded="false" />
+            <element signature="e#1872#1893#0" expanded="false" />
+            <element signature="e#2039#2064#0" expanded="false" />
+            <element signature="e#2269#2290#0" expanded="false" />
+            <element signature="e#2893#2914#0" expanded="false" />
+            <element signature="e#3060#3083#0" expanded="false" />
+            <element signature="e#3285#3306#0" expanded="false" />
+            <element signature="e#3916#3937#0" expanded="false" />
+            <element signature="e#4083#4103#0" expanded="false" />
+            <element signature="e#4308#4329#0" expanded="false" />
+            <element signature="e#4946#4967#0" expanded="false" />
+            <element signature="e#5113#5137#0" expanded="false" />
+            <element signature="e#5339#5360#0" expanded="false" />
+            <element signature="e#5970#5991#0" expanded="false" />
+            <element signature="e#6137#6164#0" expanded="false" />
+            <element signature="e#6366#6387#0" expanded="false" />
+            <element signature="e#6996#7017#0" expanded="false" />
+            <element signature="e#7188#7209#0" expanded="false" />
+            <element signature="e#7411#7432#0" expanded="false" />
+            <element signature="e#8039#8072#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_welcome_page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="140" selection-start="878" selection-end="878" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_main_course.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="8" selection-start="7740" selection-end="7740" vertical-scroll-proportion="-10.8" vertical-offset="1158" max-vertical-offset="1734">
+          <folding>
+            <element signature="e#229#262#0" expanded="false" />
+            <element signature="e#287#322#0" expanded="false" />
+            <element signature="e#350#383#0" expanded="false" />
+            <element signature="e#838#859#0" expanded="false" />
+            <element signature="e#1005#1031#0" expanded="false" />
+            <element signature="e#1233#1254#0" expanded="false" />
+            <element signature="e#1872#1893#0" expanded="false" />
+            <element signature="e#2039#2064#0" expanded="false" />
+            <element signature="e#2269#2290#0" expanded="false" />
+            <element signature="e#2893#2914#0" expanded="false" />
+            <element signature="e#3060#3083#0" expanded="false" />
+            <element signature="e#3285#3306#0" expanded="false" />
+            <element signature="e#3916#3937#0" expanded="false" />
+            <element signature="e#4083#4103#0" expanded="false" />
+            <element signature="e#4308#4329#0" expanded="false" />
+            <element signature="e#4946#4967#0" expanded="false" />
+            <element signature="e#5113#5137#0" expanded="false" />
+            <element signature="e#5339#5360#0" expanded="false" />
+            <element signature="e#5970#5991#0" expanded="false" />
+            <element signature="e#6137#6164#0" expanded="false" />
+            <element signature="e#6366#6387#0" expanded="false" />
+            <element signature="e#6996#7017#0" expanded="false" />
+            <element signature="e#7188#7209#0" expanded="false" />
+            <element signature="e#7411#7432#0" expanded="false" />
+            <element signature="e#8039#8072#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="529">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="529">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="41" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/MainCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="8" selection-start="404" selection-end="749" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_desserts.xml">
+      <provider editor-type-id="text-editor">
+        <state line="7" column="56" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Android/Develop/adt-bundle-windows-x86_64-20130729/sdk/platforms/android-18/android.jar!/android/app/Activity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="19" selection-start="1621" selection-end="1621" vertical-scroll-proportion="0.33216783" vertical-offset="422" max-vertical-offset="7531" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_confirm.xml">
+      <provider editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/Desserts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="5" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/ThankYou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_thank_you.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/orderthis/heywaiter/Confirm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="5" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_welcome_page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="34" selection-start="517" selection-end="517" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_starters.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="19" selection-start="4417" selection-end="4417" vertical-scroll-proportion="0.47166362" vertical-offset="643" max-vertical-offset="1190">
           <folding />
         </state>
       </provider>

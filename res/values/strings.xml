@@ -14,7 +14,7 @@
 	<string name="caramelCustard">Caramel Custard</string>
 	<string name="applePie">Apple Pie with IceCream</string>
 	<string name="chocMousse">Chocolate Mousse Cake</string>
-	<string name="eggSaladSandwich">Egg salad Sandwich</string>
+	<string name="eggSaladSandwich">Egg Salad Sandwich</string>
 	<string name="spinachMushroom">Mushroom Lasagna</string>
 	<string name="countryQuiche">Veg Country Quiche</string>
 	<string name="lambBurger">Spiced Lamb Burger</string>
@@ -26,4 +26,5 @@
 	<string name="BBQ">Barbeque Chicken Wings</string>
 	<string name="fishSticks">Fish Sticks</string>
 	<string name="confirm">Confirm Order</string>
+    <string name="ThankYou">YOUR ORDER IS ON ITS WAY</string><string name="useHW">Thank you for using HeyWaiter</string>
 </resources>

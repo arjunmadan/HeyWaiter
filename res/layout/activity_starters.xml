@@ -20,7 +20,7 @@
             	<ImageView android:layout_width="80dp" android:layout_height="80dp"  android:src="@drawable/cheeserolls" android:contentDescription="@string/hello_world" />
             	<TextView android:layout_width="100dp" android:layout_height="wrap_content" android:text="@string/cheeseRolls" android:layout_marginTop="5dp" android:layout_marginLeft="15dp" android:textStyle="bold"/>
             	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hello_world" android:layout_marginLeft="-100dp" android:layout_marginTop="65dp"/>
-            	<EditText android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
+            	<EditText android:id="@+id/quantStCR" android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
         </TableRow>
 
         <TableRow
@@ -30,7 +30,7 @@
                 <ImageView android:layout_width="80dp" android:layout_height="80dp"  android:src="@drawable/onionrings" android:contentDescription="@string/hello_world"/>
             	<TextView android:layout_width="100dp" android:layout_height="wrap_content" android:text="@string/onionRings" android:layout_marginTop="5dp" android:layout_marginLeft="15dp" android:textStyle="bold"/>
             	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hello_world" android:layout_marginLeft="-100dp" android:layout_marginTop="65dp"/>
-            	<EditText android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>        
+            	<EditText android:id="@+id/quantStOR" android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
         </TableRow>
 
         <TableRow
@@ -40,7 +40,7 @@
                 <ImageView android:layout_width="80dp" android:layout_height="80dp"  android:src="@drawable/fishstick" android:contentDescription="@string/hello_world"/>
             	<TextView android:layout_width="100dp" android:layout_height="wrap_content" android:text="@string/fishSticks" android:layout_marginTop="5dp" android:layout_marginLeft="15dp" android:textStyle="bold"/>
             	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hello_world" android:layout_marginLeft="-100dp" android:layout_marginTop="65dp"/>
-            	<EditText android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
+            	<EditText android:id="@+id/quantStFS" android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
         </TableRow>
 
         <TableRow
@@ -50,7 +50,7 @@
                 <ImageView android:layout_width="80dp" android:layout_height="80dp" android:src="@drawable/bbqchickenwings" android:contentDescription="@string/hello_world"/>
         	    <TextView android:layout_width="100dp" android:layout_height="wrap_content" android:text="@string/BBQ" android:layout_marginTop="5dp" android:layout_marginLeft="15dp" android:textStyle="bold"/>
         	    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hello_world" android:layout_marginLeft="-100dp" android:layout_marginTop="65dp"/>
-            	<EditText android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
+            	<EditText android:id="@+id/quantStBCW" android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
         </TableRow>
         	
         <TableRow

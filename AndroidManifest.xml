@@ -34,6 +34,8 @@
             android:name="com.orderthis.heywaiter.Desserts"
             android:label="@string/title_activity_desserts" >
         </activity>
+        <activity android:name=".Confirm" />
+        <activity android:name=".ThankYou" />
     </application>
 
 </manifest>

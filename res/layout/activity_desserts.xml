@@ -20,7 +20,7 @@
             	<ImageView android:layout_width="80dp" android:layout_height="80dp"  android:src="@drawable/rasptriffle" android:contentDescription="@string/hello_world"  android:layout_marginLeft="-150dp" android:maxWidth="80dp"/>
             	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content"  android:text="@string/raspTrif" android:layout_marginTop="5dp" android:layout_marginLeft="-120dp" android:textStyle="bold"/>
             	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hello_world" android:layout_marginLeft="-100dp" android:layout_marginTop="65dp"/>      
-                <EditText android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
+                <EditText android:id="@+id/quantDeRT" android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
         </TableRow>
 
         <TableRow
@@ -30,7 +30,7 @@
                 <ImageView android:layout_width="80dp" android:layout_height="80dp"  android:src="@drawable/caramelcustard" android:contentDescription="@string/hello_world" android:layout_marginLeft="-150dp" android:maxWidth="80dp"/>
             	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/caramelCustard" android:layout_marginTop="5dp" android:layout_marginLeft="-120dp" android:textStyle="bold"/>
             	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hello_world" android:layout_marginLeft="-100dp" android:layout_marginTop="65dp"/>
-                <EditText android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>        
+                <EditText android:id="@+id/quantDeCC" android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
         </TableRow>
 
         <TableRow
@@ -40,7 +40,7 @@
                 <ImageView android:layout_width="80dp" android:layout_height="80dp"  android:src="@drawable/applepie" android:contentDescription="@string/hello_world" android:layout_marginLeft="-150dp" android:maxWidth="80dp"/>
             	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/applePie" android:layout_marginTop="5dp" android:layout_marginLeft="-120dp" android:textStyle="bold"/>
             	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hello_world" android:layout_marginLeft="-100dp" android:layout_marginTop="65dp"/>
-            	<EditText android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
+            	<EditText android:id="@+id/quantDeAPI" android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
         </TableRow>
 
         <TableRow
@@ -50,7 +50,7 @@
                 <ImageView android:layout_width="80dp" android:layout_height="80dp"  android:src="@drawable/chocmoussecake" android:contentDescription="@string/hello_world" android:layout_marginLeft="-150dp" android:maxWidth="80dp"/>
         	    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/chocMousse" android:layout_marginTop="5dp" android:layout_marginLeft="-120dp" android:textStyle="bold"/>
         	    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hello_world" android:layout_marginLeft="-100dp" android:layout_marginTop="65dp"/>
-            	<EditText android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
+            	<EditText android:id="@+id/quantDeCMC" android:layout_height="wrap_content" android:layout_width="50dp" android:inputType="number" android:layout_marginLeft="0dp" android:layout_marginTop="60dp"/>
         </TableRow>
         
         <TableRow
