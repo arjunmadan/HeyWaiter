@@ -4,17 +4,21 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.TableLayout;
 import android.widget.TableRow;
 import android.view.ViewGroup.LayoutParams;
 import android.widget.TextView;
 
+import java.util.List;
+
 /**
  * Created by Mithil Arun on 10/11/13.
  */
 public class Confirm extends Activity
 {
+    private MenuDAO datasource;
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
@@ -30,6 +34,15 @@ public class Confirm extends Activity
                 startActivity(intent);
             }
         });
+
+        datasource=new MenuDAO(this);
+        datasource.open();
+
+        List<Order> values=datasource.getOrder();
+
+        ArrayAdapter<Order> adapter = new ArrayAdapter<Order>(this,
+                android.R.layout.simple_list_item_1, values);
+        setListAdapter(adapter);
         TableLayout layout=(TableLayout)findViewById(R.id.tablelayout);
         /*while(/*somethinglayout!=null/*sample condition)
         {
@@ -41,4 +54,6 @@ public class Confirm extends Activity
             layout.addView(tr);
         }*/
     }
+
+
 }
