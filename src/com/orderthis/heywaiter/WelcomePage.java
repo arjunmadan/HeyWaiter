@@ -9,7 +9,8 @@ import android.view.View;
 import android.widget.Button;
 
 public class WelcomePage extends Activity {
-
+	private MenuDAO datasource;
+	static boolean flag = false;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -35,4 +36,25 @@ public class WelcomePage extends Activity {
 		return true;
 	}
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+        if(flag)
+        	{
+        		datasource = ((ContextSaver)getApplication()).datasource;
+        		datasource.open();
+        		Confirm.flag = false;
+        		Desserts.flag = false;
+        		MainCourse.flag = false;
+        		Starters.flag = false;
+        		WelcomePage.flag = false;
+        		finish();
+        	}
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        
+    }
 }

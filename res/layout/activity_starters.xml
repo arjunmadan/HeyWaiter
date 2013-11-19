@@ -58,7 +58,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" >
                 <Button android:id="@+id/button2" android:layout_width="130dp" android:layout_height="50dp" android:text="@string/welcome" android:background="#85d8d8d8" android:layout_marginLeft="0dp"/>
-        		<Button android:id="@+id/button1" android:layout_width="130dp" android:layout_height="50dp" android:text="@string/maincourse" android:background="#85d8d8d8" android:layout_marginLeft="20dp"/>        
+        		<Button android:id="@+id/button1" android:layout_width="fill_parent" android:layout_height="50dp" android:text="@string/maincourse" android:background="#85d8d8d8" android:layout_marginLeft="20dp"/>        
         </TableRow>
     </TableLayout>
 	

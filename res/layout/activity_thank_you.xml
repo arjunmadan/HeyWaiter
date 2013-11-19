@@ -13,8 +13,6 @@
         android:id="@+id/textView"
         android:background="@android:color/background_light"
         android:shadowColor="#d9d9d9"
-        android:phoneNumber="false"
-        android:password="false"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 
@@ -27,4 +25,25 @@
         android:background="@android:color/background_light"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/button1"
+        android:layout_alignBottom="@+id/button1"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_marginLeft="37dp"
+        android:text="Feedback" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView2"
+        android:layout_marginBottom="38dp"
+        android:layout_marginLeft="18dp"
+        android:layout_toRightOf="@+id/button2"
+        android:text="Close" />
+
 </RelativeLayout>

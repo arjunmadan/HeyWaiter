@@ -21,16 +21,19 @@ public class MenuDAO
 
     public MenuDAO(Context context)
     {
-        dbHelper=new MySQLiteHelper(context);
+    	dbHelper=new MySQLiteHelper(context);
     }
 
     public void open() throws SQLException
     {
-        database = dbHelper.getWritableDatabase();
+    	database = dbHelper.getWritableDatabase();
+    	dbHelper.onCreate(database);
     }
     public void close()
     {
-        dbHelper.close();
+        database.execSQL("drop table if exists menu");
+    	dbHelper.close();
+        
     }
 
     public void addItem(String dish_id, String dish_category, Integer dish_quant)
@@ -39,10 +42,10 @@ public class MenuDAO
         contentValues.put(MySQLiteHelper.dish_ID,dish_id);
         contentValues.put(MySQLiteHelper.dish_quant, dish_quant);
         contentValues.put(MySQLiteHelper.dish_category, dish_category);
-        Long insertId = database.insert(MySQLiteHelper.menu_table, null, contentValues);
-
-
+        database.insert(MySQLiteHelper.menu_table, null, contentValues);
+        
     }
+    
     public List<Order> getOrder() {
         List<Order> orders = new ArrayList<Order>();
 

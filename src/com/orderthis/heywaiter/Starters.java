@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.view.Menu;
 import android.view.View;
+import android.view.WindowManager;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
@@ -12,14 +13,14 @@ import android.widget.EditText;
 import java.util.List;
 
 public class Starters extends Activity {
-
+	static boolean flag = false;
     private MenuDAO datasource;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_starters);
 
-
+		this.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_HIDDEN); 
         datasource = ((ContextSaver)getApplication()).datasource;
 
 		Button b1 = (Button) findViewById (R.id.button1);
@@ -72,11 +73,14 @@ public class Starters extends Activity {
     @Override
     protected void onResume() {
         super.onResume();
+        if(flag)
+        	finish();
     }
 
     @Override
     protected void onPause() {
         super.onPause();
+        
     }
 
 }

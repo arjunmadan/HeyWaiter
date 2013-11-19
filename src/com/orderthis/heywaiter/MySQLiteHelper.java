@@ -18,7 +18,7 @@ public class MySQLiteHelper extends SQLiteOpenHelper
     private static final String DATABASE_NAME = "menu.db";
     private static final int DATABASE_VERSION = 1;
 
-    private static final String DATABASE_CREATE = "create table "
+    private static final String DATABASE_CREATE = "create table if not exists "
             + menu_table + "(" + dish_ID
             + " text primary key, " + dish_category
             + " text not null, " + dish_quant

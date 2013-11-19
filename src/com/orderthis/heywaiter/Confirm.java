@@ -4,14 +4,11 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.TableLayout;
 import android.widget.TableRow;
 import android.view.ViewGroup.LayoutParams;
 import android.widget.TextView;
-
-import java.util.Iterator;
 import java.util.List;
 
 /**
@@ -20,6 +17,7 @@ import java.util.List;
 public class Confirm extends Activity
 {
     private MenuDAO datasource;
+    static boolean flag = false;
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
@@ -49,7 +47,7 @@ public class Confirm extends Activity
             TextView dishCat = new TextView(this);
             dishCat.setText(value.getDish_category());
             TextView dishQuant = new TextView(this);
-            dishQuant.setText(value.getDish_quant());
+            dishQuant.setText(Integer.toString(value.getDish_quant()));
             tr.addView(dishID);
             tr.addView(dishCat);
             tr.addView(dishQuant);
@@ -59,10 +57,13 @@ public class Confirm extends Activity
     @Override
     protected void onResume() {
         super.onResume();
+        if(flag)
+        	finish();
     }
 
     @Override
     protected void onPause() {
         super.onPause();
+        
     }
 }
