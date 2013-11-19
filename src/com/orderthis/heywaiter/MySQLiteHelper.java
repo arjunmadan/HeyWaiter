@@ -32,12 +32,13 @@ public class MySQLiteHelper extends SQLiteOpenHelper
     @Override
     public void onCreate(SQLiteDatabase sqLiteDatabase)
     {
-
+        sqLiteDatabase.execSQL(DATABASE_CREATE);
     }
 
     @Override
     public void onUpgrade(SQLiteDatabase sqLiteDatabase, int i, int i2)
     {
-
+        sqLiteDatabase.execSQL("DROP TABLE IF EXISTS "+menu_table);
+        onCreate(sqLiteDatabase);
     }
 }

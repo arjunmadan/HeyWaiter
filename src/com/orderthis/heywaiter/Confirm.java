@@ -11,6 +11,7 @@ import android.widget.TableRow;
 import android.view.ViewGroup.LayoutParams;
 import android.widget.TextView;
 
+import java.util.Iterator;
 import java.util.List;
 
 /**
@@ -35,25 +36,33 @@ public class Confirm extends Activity
             }
         });
 
-        datasource=new MenuDAO(this);
-        datasource.open();
+        datasource = ((ContextSaver)getApplication()).datasource;
 
         List<Order> values=datasource.getOrder();
-
-        ArrayAdapter<Order> adapter = new ArrayAdapter<Order>(this,
-                android.R.layout.simple_list_item_1, values);
-        setListAdapter(adapter);
         TableLayout layout=(TableLayout)findViewById(R.id.tablelayout);
-        /*while(/*somethinglayout!=null/*sample condition)
+        for(Order value:values)
         {
             TableRow tr=new TableRow(this);
-            tr.setLayoutParams(new LayoutParams(LayoutParams.FILL_PARENT,LayoutParams.WRAP_CONTENT));
-            TextView textview = new TextView(this);
-            textview.setText("data"/*sample);
-            tr.addView(textview);
+            tr.setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT,LayoutParams.WRAP_CONTENT));
+            TextView dishID = new TextView(this);
+            dishID.setText(value.getDish_id());
+            TextView dishCat = new TextView(this);
+            dishCat.setText(value.getDish_category());
+            TextView dishQuant = new TextView(this);
+            dishQuant.setText(value.getDish_quant());
+            tr.addView(dishID);
+            tr.addView(dishCat);
+            tr.addView(dishQuant);
             layout.addView(tr);
-        }*/
+        }
+    }
+    @Override
+    protected void onResume() {
+        super.onResume();
     }
 
-
+    @Override
+    protected void onPause() {
+        super.onPause();
+    }
 }
